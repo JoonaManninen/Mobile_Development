@@ -1,6 +1,6 @@
 package com.example.myapplication;
 
-// Joona Manninen 11.7.2022
+// Joona Manninen 11.7.2022 e
 
 import androidx.appcompat.app.AppCompatActivity;
 
