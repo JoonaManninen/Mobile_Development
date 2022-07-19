@@ -13,6 +13,8 @@ import androidx.core.content.ContextCompat;
 
 import java.util.ArrayList;
 
+// Joona Manninen 19.7.2022 courseproject for course Software Development Skills: Mobile 2021-22
+
 public class ItemAdapter extends BaseAdapter {
 
     LayoutInflater mInflater;

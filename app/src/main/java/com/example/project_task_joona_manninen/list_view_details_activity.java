@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.widget.TextView;
 import android.widget.Toast;
 
+// Joona Manninen 19.7.2022 courseproject for course Software Development Skills: Mobile 2021-22
+
 public class list_view_details_activity extends AppCompatActivity {
 
     @Override
