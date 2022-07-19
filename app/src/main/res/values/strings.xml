@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project_Task_Joona_Manninen</string>
+    <string name="empty_the_list">empty the list</string>
+    <string name="see_list">See list</string>
+    <string name="add_to_the_list">Add to the list</string>
+    <string name="number_of_items">Number of items:</string>
+    <string name="notes_on_your_grocery">Notes for your grocery:</string>
+    <string name="add_your_grocery_here">Add your grocery here:</string>
+    <string name="grocerylist_application">Grocerylist application</string>
+</resources>
